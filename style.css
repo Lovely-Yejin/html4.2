@@ -1,0 +1,22 @@
+h1 {
+    color: goldenrod;
+  }
+  p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  a{
+    text-decoration: none;
+    color: palevioletred;
+  }
+  body{
+    background-color:lightpink;
+   
+    ;
+  }
+  span{
+    color:cornflowerblue;
+    font-weight: 700;
+  }
+  .background{
+    background-color: aqua;
+  }
